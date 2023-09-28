@@ -58,7 +58,7 @@ for (i in 1:length(threshold)){
 
 ### Create figure
 
-setwd("~/Library/CloudStorage/Dropbox/WorkingProjects/MultiOmics/Simulations")
+
 pdf("Power_fdr_sim_study_updated.pdf", width = 10, height = 5)
 par(mfrow = c(1,2))
 plot(x = threshold, y = power[, 1], type = "b", col = "lightsalmon",
