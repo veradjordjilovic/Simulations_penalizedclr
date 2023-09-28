@@ -4,4 +4,4 @@ Files for reproducing  simulation study for article: **penalizedclr: an R packag
 This repository contains three files:
 1. simulation_study_setup_and_run.R that contains functions that generate data, simulation settings and a function that runs simulations
 2. simulation_results.rds that contains intermediate  simulation results
-3. Tables_Figures.R that procvides  code for results presentation
+3. Tables_Figures.R that provides the code for results presentation
