@@ -9,6 +9,9 @@ This repository contains the following files:
    
 In addition, code for estimating alternative high-dimensional logistic regression models is provided in
 4. ipf-lasso-simulations.R
+
 5. clogitL1.R
+   
   Code for running a simulation study for different sample sizes is given in
-6. Different_n.R
+  
+7. Different_n.R
